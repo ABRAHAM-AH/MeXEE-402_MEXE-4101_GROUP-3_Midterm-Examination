@@ -15,3 +15,8 @@ Contents:
       e. Date and Time Functions
       
       f. Lookup Functions
+
+# Authors: 
+# Angela Heizel Abraham
+# Jhodielen Marabi
+# Nikkita Andrea Roxas
