@@ -16,7 +16,9 @@ Contents:
       
       f. Lookup Functions
 
-# Authors: 
-# Angela Heizel Abraham
-# Jhodielen Marabi
-# Nikkita Andrea Roxas
+Authors: 
+- Angela Heizel Abraham
+- Jhodielen Marabi
+- Nikkita Andrea Roxas
+
+Reference link of the Data Set:
