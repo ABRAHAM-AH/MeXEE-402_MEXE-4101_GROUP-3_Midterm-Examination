@@ -3,7 +3,7 @@
 Category: School / Students
 
 Contents:
-    
+
       a. Text Functions
       
       b. Math Functions
