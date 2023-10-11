@@ -29,7 +29,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
 ## Contents
   ➤ _**Text Functions**_
  
-  📄Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
+  📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
   
   ➤ _**Math Functions**_
   
