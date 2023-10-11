@@ -21,4 +21,4 @@ Authors:
 - Jhodielen Marabi
 - Nikkita Andrea Roxas
 
-Reference link of the Data Set:
+Reference link of the Data Set: https://www.kaggle.com/datasets/joebeachcapital/school-shootings
