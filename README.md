@@ -34,22 +34,28 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
 
 ## Contents
   ➤ _**Text Functions**_
-  📄
+ 
+  📄Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
   
   ➤ _**Math Functions**_
-  📄
+  
+  📄Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
   
   ➤ _**Logical Functions**_
-  📄
+  
+  📄Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
   
   ➤ _**Information Functions**_
-  📄
+ 
+  📄Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
   
   ➤ _**Date and Time Functions**_
-  📄
+ 
+  📄Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
   
   ➤ _**Lookup Functions**_
-  📄
+ 
+  📄Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
   
 ## Authors
 🤓 **Angela Heizel Abraham**
