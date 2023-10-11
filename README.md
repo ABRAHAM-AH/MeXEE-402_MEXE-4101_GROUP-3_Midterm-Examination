@@ -7,8 +7,6 @@
 **Table of Contents**
 - [About](#about)
 - [About the Dataset](#about-the-dataset)
-- [Data Collection Method](#data-collection-method)
-- [Exclusions](#exclusions)
 - [Data Analysis](#data-analysis)
 - [Calculating Child Exposure](#calculating-child-exposure)
 - [Ongoing Updates](#ongoing-updates)
