@@ -1,6 +1,6 @@
 # MeXEE-402_MEXE-4101_GROUP-3_MIDTERM-EXAMINATION
 
-# School Shootings
+# 🕵️ School Shootings
 
 **Author/Publisher:** JOAKIM ARVIDSSON
 
