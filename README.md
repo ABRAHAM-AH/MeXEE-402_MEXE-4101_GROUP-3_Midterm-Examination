@@ -41,7 +41,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
   
   ➤ _**Information Functions**_
  
-  📄Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
+  📋Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
   
   ➤ _**Date and Time Functions**_
  
