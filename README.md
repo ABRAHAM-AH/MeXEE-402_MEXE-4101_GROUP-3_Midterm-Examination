@@ -5,14 +5,8 @@
 **Author/Publisher:** JOAKIM ARVIDSSON
 
 **Table of Contents**
-- [About](#about)
+- [Description](#description)
 - [About the Dataset](#about-the-dataset)
-- [Data Collection Method](#data-collection-method)
-- [Exclusions](#exclusions)
-- [Data Analysis](#data-analysis)
-- [Calculating Child Exposure](#calculating-child-exposure)
-- [Ongoing Updates](#ongoing-updates)
-- [Contributions](#contributions)
 - [Category](#category)
 - [Contents](#contents)
   - [Text Functions](#text-functions)
@@ -35,11 +29,11 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
 ## Contents
   ➤ _**Text Functions**_
  
-  📄Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
+  📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
   
   ➤ _**Math Functions**_
   
-  📄Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
+  🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
   
   ➤ _**Logical Functions**_
   
