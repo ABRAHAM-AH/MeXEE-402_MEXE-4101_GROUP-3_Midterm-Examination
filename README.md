@@ -37,7 +37,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
   
   ➤ _**Logical Functions**_
   
-  📄Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
+  ❓Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
   
   ➤ _**Information Functions**_
  
