@@ -7,8 +7,6 @@
 **Table of Contents**
 - [About](#about)
 - [About the Dataset](#about-the-dataset)
-- [Ongoing Updates](#ongoing-updates)
-- [Contributions](#contributions)
 - [Category](#category)
 - [Contents](#contents)
   - [Text Functions](#text-functions)
