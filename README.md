@@ -45,7 +45,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
   
   ➤ _**Date and Time Functions**_
  
-  📄Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
+  📅Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
   
   ➤ _**Lookup Functions**_
  
