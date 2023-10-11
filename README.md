@@ -17,7 +17,7 @@
   - [Lookup Functions](#lookup-functions)
 - [Authors](#authors)
 
-## About
+## Description
 This repository provides comprehensive information about all school shootings in the United States since the tragic Columbine High massacre on April 20, 1999.
 
 ## About the Dataset
