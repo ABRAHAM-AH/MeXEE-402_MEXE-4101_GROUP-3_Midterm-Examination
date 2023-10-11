@@ -1,24 +1,46 @@
 # MeXEE-402_MEXE-4101_GROUP-3_MIDTERM-EXAMINATION
 
-Category: School / Students
+# School Shootings
 
-Contents:
+**Author/Publisher:** JOAKIM ARVIDSSON
 
-      a. Text Functions
-      
-      b. Math Functions
-      
-      c. Logical Functions
-      
-      d. Information Functions
-      
-      e. Date and Time Functions
-      
-      f. Lookup Functions
+**Table of Contents**
+- [About](#about)
+- [About the Dataset](#about-the-dataset)
+- [Data Collection Method](#data-collection-method)
+- [Exclusions](#exclusions)
+- [Data Analysis](#data-analysis)
+- [Calculating Child Exposure](#calculating-child-exposure)
+- [Ongoing Updates](#ongoing-updates)
+- [Contributions](#contributions)
+- [Category](#category)
+- [Contents](#contents)
+  - [Text Functions](#text-functions)
+  - [Math Functions](#math-functions)
+  - [Logical Functions](#logical-functions)
+  - [Information Functions](#information-functions)
+  - [Date and Time Functions](#date-and-time-functions)
+  - [Lookup Functions](#lookup-functions)
+- [Authors](#authors)
 
-Authors: 
+## About
+This repository provides comprehensive information about all school shootings in the United States since the tragic Columbine High massacre on April 20, 1999.
+
+## About the Dataset
+The Washington Post dedicated an entire year to meticulously document the impact of school shootings on children, going beyond the grim statistics of fatalities and injuries. Their exhaustive research involved identifying every incident of gunfire occurring at primary and secondary schools during regular school hours since the fateful day of the Columbine High massacre.
+
+## Category
+- School / Students
+
+## Contents
+  - **Text Functions**
+  - **Math Functions**
+  - **Logical Functions**
+  - **Information Functions**
+  - **Date and Time Functions**
+  - **Lookup Functions**
+
+## Authors
 - Angela Heizel Abraham
 - Jhodielen Marabi
 - Nikkita Andrea Roxas
-
-Reference link of the Data Set: https://www.kaggle.com/datasets/joebeachcapital/school-shootings
