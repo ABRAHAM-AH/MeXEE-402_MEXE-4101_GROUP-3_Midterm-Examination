@@ -24,7 +24,7 @@ This repository provides comprehensive information about all school shootings in
 The Washington Post dedicated an entire year to meticulously documenting the impact of school shootings on children, going beyond the grim statistics of fatalities and injuries. Their exhaustive research involved identifying every incident of gunfire occurring at primary and secondary schools during regular school hours since the fateful day of the Columbine High massacre.
 
 ## Category
-- School / Students
+🏫 School / Students
 
 ## Contents
   ➤ _**Text Functions**_
