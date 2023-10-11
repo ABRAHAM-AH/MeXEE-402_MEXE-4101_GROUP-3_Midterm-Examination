@@ -33,7 +33,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
   
   ➤ _**Math Functions**_
   
-  📄Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
+  🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
   
   ➤ _**Logical Functions**_
   
