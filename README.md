@@ -49,7 +49,7 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
   
   ➤ _**Lookup Functions**_
  
-  📄Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
+  🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
   
 ## Authors
 🤓 **Angela Heizel Abraham**
