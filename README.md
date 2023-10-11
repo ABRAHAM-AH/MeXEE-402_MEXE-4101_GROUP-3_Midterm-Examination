@@ -34,13 +34,20 @@ The Washington Post dedicated an entire year to meticulously documenting the imp
 
 ## Contents
   ➤ _**Text Functions**_
+  
   ➤ _**Math Functions**_
+  
   ➤ _**Logical Functions**_
+  
   ➤ _**Information Functions**_
+  
   ➤ _**Date and Time Functions**_
+  
   ➤ _**Lookup Functions**_
 
 ## Authors
-- **Angela Heizel Abraham**
-- **Jhodielen Marabi**
-- **Nikkita Andrea Roxas**
+🤓 **Angela Heizel Abraham**
+
+🤓 **Jhodielen Marabi**
+
+🤓 **Nikkita Andrea Roxas**
