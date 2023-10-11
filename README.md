@@ -5,7 +5,7 @@
 **Author/Publisher:** JOAKIM ARVIDSSON
 
 **Table of Contents**
-- [About](#about)
+- [Description](#description)
 - [About the Dataset](#about-the-dataset)
 - [Category](#category)
 - [Contents](#contents)
