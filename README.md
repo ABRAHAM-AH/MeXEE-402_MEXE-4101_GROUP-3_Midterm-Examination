@@ -37,31 +37,30 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 🏫 School / Students
 
 ## Contents
-  ➤ _**Text Functions**_
- 
-  📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
+➤ _**Text Functions**_
+📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
 
-## LEN Function
+# LEN Function
 - **Description:** Returns the length of the specified string.
 - **Syntax:** `=LEN(text)`
 
-## TRIM Function
+# TRIM Function
 - **Description:** Returns a text value with leading and trailing spaces removed.
 - **Syntax:** `=TRIM(text)`
 
-## UPPER Function
+# UPPER Function
 - **Description:** Allows you to convert text to all uppercase.
 - **Syntax:** `=UPPER(text)`
 
-## LOWER Function
+# LOWER Function
 - **Description:** Allows you to convert text to all lowercase.
 - **Syntax:** `=LOWER(text)`
 
-## PROPER Function
+# PROPER Function
 - **Description:** Sets the first character in each word to uppercase and the rest to lowercase.
 - **Syntax:** `=PROPER(text)`
 
-## SUBSTITUTE Function
+# SUBSTITUTE Function
 - **Description:** Replaces a set of characters with another.
 - **Syntax:** `=SUBSTITUTE(text, old_text, new_text, [nth_appearance])`
 - **Parameters:**
@@ -70,7 +69,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `new_text` - The new characters to replace `old_text` with.
   - `nth_appearance` - (Optional) The nth appearance of `old_text` to replace. If omitted, all occurrences are replaced.
 
-## REPLACE Function
+# REPLACE Function
 - **Description:** Replaces a sequence of characters in a string with another set of characters.
 - **Syntax:** `=REPLACE(old_text, start, number_of_chars, new_text)`
 - **Parameters:**
@@ -79,7 +78,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `number_of_chars` - The number of characters to replace in `old_text`.
   - `new_text` - The replacement set of characters.
 
-## FIND Function
+# FIND Function
 - **Description:** Returns the location of a substring in a string (case-sensitive).
 - **Syntax:** `=FIND(substring, string, [start_position])`
 - **Parameters:**
@@ -87,21 +86,21 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `string` - The string to search within.
   - `start_position` - (Optional) The position in the string where the search will start. Default is the beginning.
 
-## LEFT Function
+# LEFT Function
 - **Description:** Allows you to extract a substring from a string, starting from the leftmost character.
 - **Syntax:** `=LEFT(text, [number_of_characters])`
 - **Parameters:**
   - `text` - The string you wish to extract from it.
   - `number_of_characters` - (Optional) Number of characters to extract from the left. Default is 1.
 
-## RIGHT Function
+# RIGHT Function
 - **Description:** Returns the last character(s) in a text string based on the number of characters you specify.
 - **Syntax:** `=RIGHT(text, [number_of_characters])`
 - **Parameters:**
   - `text` - The string you wish to extract from it.
   - `number_of_characters` - (Optional) Number of characters to extract from the right. Default is 1.
 
-## MID Function
+# MID Function
 - **Description:** Extracts a substring from a string, starting at any position.
 - **Syntax:** `=MID(text, start_position, number_of_characters)`
 - **Parameters:**
@@ -109,13 +108,12 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `start_position` - The position to begin extraction (1-based index).
   - `number_of_characters` - Number of characters to extract (mandatory in worksheet function, optional in VBA).
 
-## CONCATENATE Function
+**CONCATENATE Function**
 - **Description:** Allows you to join 2 or more strings together.
 - **Syntax:** `=CONCATENATE(text1, [text2, ... text_n])`
 
-  ➤ _**Math Functions**_
-  
-  🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
+## ➤ _**Math Functions**_
+🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
 
 ## ABS Function
 - **Description:** Returns the absolute value (modulus) of a supplied number.
