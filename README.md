@@ -250,6 +250,52 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 ## ➤ _**Logical Functions**_
 ❓Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
 
+**IF Function**
+- **Description:** Returns one value if the condition is TRUE, or another value if the condition is FALSE.
+- **Syntax:** `IF(condition, value_if_true, [value_if_false])`
+
+**AND Function**
+- **Description:** Returns TRUE if all arguments evaluate to TRUE; otherwise, it returns FALSE.
+- **Syntax:** `AND(condition1, [condition2], ...)`
+
+**OR Function**
+- **Description:** Returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
+- **Syntax:** `OR(condition1, [condition2, ...condition_n])`
+
+**NOT Function**
+- **Description:** Checks if one value is not equal to another. Returns TRUE if the input is FALSE and vice versa.
+- **Syntax:** `NOT(logical)`
+
+**XOR Function**
+- **Description:** Introduced in Excel 2013, it's a logical "exclusive OR" function.
+- **Syntax:** `XOR(logical1, [logical2], ...)`
+- **Note:** Returns TRUE if one of the statements is true and FALSE if both statements are true. If neither statement is true, it also returns FALSE.
+
+**ISBLANK Function**
+- **Description:** Returns one value if the condition is TRUE, or another value if the condition is FALSE.
+- **Syntax:** `IF(condition, value_if_true, [value_if_false])`
+
+**IFERROR Function**
+- **Description:** Returns an alternate value if a formula results in an error.
+- **Syntax:** `IFERROR(value, value_if_error)`
+- **Note:** Checks for errors like #N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #.
+
+**SUMIF Function**
+- **Description:** Sums the values in a range that meet specified criteria.
+- **Syntax:** `SUMIF(range, criteria, [sum_range])`
+- **Parameters:**
+  - `range` - The range of cells to evaluate by criteria.
+  - `criteria` - A number, expression, cell reference, text, or function defining which cells to add.
+
+**COUNTIF Function**
+- **Description:** Counts the number of cells that meet a given criterion.
+- **Syntax:** `COUNTIF(range, criteria)`
+- **Note:** Specify where to look and what to look for.
+
+**IFNA Function**
+- **Description:** Returns an alternate value if a formula results in a #N/A error.
+- **Syntax:** `IFNA(value, value_if_na)`
+
   
 ## ➤ _**Information Functions**_
 📋Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
