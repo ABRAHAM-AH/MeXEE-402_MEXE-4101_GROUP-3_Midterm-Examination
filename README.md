@@ -13,7 +13,7 @@
   - [Information Functions](#information-functions)
   - [Date and Time Functions](#date-and-time-functions)
   - [Lookup Functions](#lookup-functions)
-- [Authors](#authors)
+- [𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍](#𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍)
 
 # 📚 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
 
@@ -494,7 +494,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `string_reference`: A textual representation of a cell reference.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
 
-# 𝕬𝖚𝖙𝖍𝖔𝖗𝖘✍
+# 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
 
 🤓 **Jhodielen Marabi**
