@@ -1,6 +1,6 @@
-# <p align="center">MeXEE-402_MEXE-4101_GROUP-3_MIDTERM-EXAMINATION</p>
+# <p align="center">𝐌𝐞𝐗𝐄𝐄-402_𝐌𝐄𝐗𝐄-4101_𝐆𝐑𝐎𝐔𝐏-3_𝐌𝐈𝐃𝐓𝐄𝐑𝐌-𝐄𝐗𝐀𝐌𝐈𝐍𝐀𝐓𝐈𝐎𝐍</p>
 
-# <p align="center">🕵️ School Shootings</p>
+# <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
 
 # Table of Contents
 - [Description](#description)
