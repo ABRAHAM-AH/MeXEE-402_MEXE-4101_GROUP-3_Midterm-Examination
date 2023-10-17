@@ -1,6 +1,7 @@
 # <p align="center">𝐌𝐞𝐗𝐄𝐄-402_𝐌𝐄𝐗𝐄-4101_𝐆𝐑𝐎𝐔𝐏-3_𝐌𝐈𝐃𝐓𝐄𝐑𝐌-𝐄𝐗𝐀𝐌𝐈𝐍𝐀𝐓𝐈𝐎𝐍</p>
 
 # <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
+# <p align="center">𝐉𝐎𝐀𝐊𝐈𝐌 𝐀𝐑𝐕𝐈𝐃𝐒𝐒𝐎𝐍</p>
 
 # 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
 - About the Dataset
@@ -15,11 +16,6 @@
 - Collaborators
 
 # 📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
-
-**Title:** School Shootings
-
-**Author/Publisher:** JOAKIM ARVIDSSON
-
 # 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 The **School Shootings** dataset is a comprehensive researched project conducted by **The Washington Post**. 🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
 
