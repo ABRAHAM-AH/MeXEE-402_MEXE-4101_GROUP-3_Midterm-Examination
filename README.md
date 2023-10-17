@@ -2,7 +2,7 @@
 
 # <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
 
-# Table of Contents
+# 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
 - [Description](#description)
 - [About the Dataset](#about-the-dataset)
 - [Category](#category)
@@ -15,13 +15,13 @@
   - [Lookup Functions](#lookup-functions)
 - [Authors](#authors)
 
-# 📚 About the Dataset
+# 📚 𝕬𝖇𝖔𝖚𝖙 𝖙𝖍𝖊 𝕯𝖆𝖙𝖆𝖘𝖊𝖙
 
 **Title:** School Shootings
 
 **Author/Publisher:** JOAKIM ARVIDSSON
 
-# Overview
+# 𝕺𝖛𝖊𝖗𝖛𝖎𝖊𝖜
 The **School Shootings** dataset is a comprehensive researched project conducted by **The Washington Post**. 
 🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
 
