@@ -345,7 +345,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 
 **ISREF Function**
 - **Description:** Returns TRUE when a cell contains a reference or space and FALSE if not. Useful for checking if a cell contains a valid reference.
-- **Syntax:** `ISREF(value)`
+- **Syntax:** `ISREF(value)` 
 
 **ISFORMULA Function**
 - **Description:** Returns TRUE when a cell contains a formula and FALSE if not. It considers the presence of a formula, regardless of its output or error conditions.
