@@ -4,16 +4,25 @@
 ## <p align="center">𝐀𝐮𝐭𝐡𝐨𝐫/𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐫: 𝐉𝐎𝐀𝐊𝐈𝐌 𝐀𝐑𝐕𝐈𝐃𝐒𝐒𝐎𝐍</p>
 
 ## 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
-★ About the Dataset
-★ Category
-★ Contents
-  ● Text Functions
-  ● Math Functions
-  ● Logical Functions
-  ● Information Functions
-  ● Date and Time Functions
-  ● Lookup Functions
-★ Collaborators
+★ **About the Dataset**
+
+★ **Category**
+
+★ **Contents**
+
+● **Text Functions**
+      
+● **Math Functions**
+      
+● **Logical Functions**
+      
+● **Information Functions**
+      
+● **Date and Time Functions**
+      
+● **Lookup Functions**
+    
+★ **Collaborators**
 
 # 📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
 ## 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
