@@ -33,10 +33,10 @@ The Washington Post diligently organized more than 200 qualifying incidents into
 
 This dataset is a valuable resource for researchers, policymakers, and anyone interested in understanding the full scope and impact of school shootings on our society. 📈📢
 
-# Category
+# 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚
 🏫 School / Students
 
-# Contents
+# 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔
 
 ## ➤ _**Text Functions**_
 📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
@@ -437,7 +437,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 ## ➤ _**Lookup Functions**_
 🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
   
-## Authors
+## 𝕬𝖚𝖙𝖍𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
 
 🤓 **Jhodielen Marabi**
