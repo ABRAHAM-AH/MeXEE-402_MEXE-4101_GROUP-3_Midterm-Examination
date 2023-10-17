@@ -358,6 +358,81 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 ## ➤ _**Date and Time Functions**_
 📅Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
 
+DATE Function
+- **Description:** Creates a valid date from year, month, and day components.
+- **Syntax:** `DATE(year, month, day)`
+
+TIME Function
+- **Description:** Creates a time with hour, minute, and second components.
+- **Syntax:** `TIME(hour, minute, second)`
+
+DATEVALUE Function
+- **Description:** Converts text in a recognized format (e.g., a number, date, or time format) into a numeric value.
+- **Syntax:** `DATEVALUE("year-month-day")`
+
+TIMEVALUE Function
+- **Description:** Converts a time represented as text into a proper Excel time.
+- **Syntax:** `TIMEVALUE("time_text")`
+
+NOW Function
+- **Description:** Returns the current date and time, updated continuously when a worksheet is changed or opened.
+- **Syntax:** `NOW()`
+
+TODAY Function
+- **Description:** Returns the current date, updated continuously when a worksheet is changed or opened.
+- **Syntax:** `TODAY()`
+
+HOUR Function
+- **Description:** Returns the hour component of a time as a number between 0 and 23.
+- **Syntax:** `HOUR(serial_number)`
+
+MINUTE Function
+- **Description:** Extracts the minute component of a time as a number between 0 and 59.
+- **Syntax:** `MINUTE(serial_number)`
+
+SECOND Function
+- **Description:** Returns the second component of a time as a number between 0 and 59.
+- **Syntax:** `SECOND(serial_number)`
+
+DAY Function
+- **Description:** Returns the day of the month as a number between 1 and 31 from a given date.
+- **Syntax:** `DAY(serial_number)`
+
+MONTH Function
+- **Description:** Extracts the month from a given date as a number between 1 and 12.
+- **Syntax:** `MONTH(serial_number)`
+
+YEAR Function
+- **Description:** Returns the year component of a date as a 4-digit number.
+- **Syntax:** `YEAR(serial_number)`
+
+WEEKNUM Function
+- **Description:** Takes a date and returns a week number (1 to 54) that corresponds to the week of the year, starting with the week containing January 1.
+- **Syntax:** `WEEKNUM(serial_number)`
+
+WEEKDAY Function
+- **Description:** Takes a date and returns a number between 1 and 7, representing the day of the week. By default, it counts Sunday as 1 and Saturday as 7.
+- **Syntax:** `WEEKDAY(serial_number, [return_type])`
+
+EDATE Function
+- **Description:** Returns a date on the same day of the month, n months in the past or future.
+- **Syntax:** `EDATE(start_date, months)`
+
+EOMONTH Function
+- **Description:** Returns the last day of the month.
+- **Syntax:** `EOMONTH(start_date, months)`
+
+WORKDAY Function
+- **Description:** Takes a date and returns the nearest working day in the future or past. Useful for calculating ship dates, delivery dates, and completion dates.
+- **Syntax:** `WORKDAY(start_date, days, [holidays])`
+
+WORKDAY.INTL Function
+- **Description:** Similar to WORKDAY but allows customization of weekend days. You can specify which days are considered weekends.
+- **Syntax:** `WORKDAY.INTL(start_date, days, [weekend], [holidays])`
+
+DAYS Function
+- **Description:** Returns the number of days between two dates.
+- **Syntax:** `DAYS(end_date, start_date)`
 
 ## ➤ _**Lookup Functions**_
 🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
