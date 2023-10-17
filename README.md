@@ -3,19 +3,18 @@
 # <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
 
 # 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
-- [Description](#description)
-- [About the Dataset](#about-the-dataset)
-- [Category](#category)
-- [Contents](#contents)
-  - [Text Functions](#text-functions)
-  - [Math Functions](#math-functions)
-  - [Logical Functions](#logical-functions)
-  - [Information Functions](#information-functions)
-  - [Date and Time Functions](#date-and-time-functions)
-  - [Lookup Functions](#lookup-functions)
-- [𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍](#𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍)
+- [About the Dataset](#📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕)
+- [Category](#𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚)
+- [Contents](#𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔)
+  - [Text Functions](#Text Functions)
+  - [Math Functions](#Math Functions)
+  - [Logical Functions](#Logical Functions)
+  - [Information Functions](#Information Functions)
+  - [Date and Time Functions](#Date and Time Functions)
+  - [Lookup Functions](#Lookup Functions)
+- [Collaborators](#𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍)
 
-# 📚 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
+# 📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
 
 **Title:** School Shootings
 
