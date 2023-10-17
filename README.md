@@ -4,11 +4,11 @@
 ## <p align="center">𝐀𝐮𝐭𝐡𝐨𝐫/𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐫: 𝐉𝐎𝐀𝐊𝐈𝐌 𝐀𝐑𝐕𝐈𝐃𝐒𝐒𝐎𝐍</p>
 
 ## 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
-★ **About the Dataset**
+★ **𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁**
 
-★ **Category**
+★ **𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆**
 
-★ **Contents**
+★ **𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀**
 
 ● **Text Functions**
       
@@ -22,7 +22,7 @@
       
 ● **Lookup Functions**
     
-★ **Collaborators**
+★ **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘀**
 
 # 📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
 ## 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
@@ -33,7 +33,7 @@ The investigation primarily focuses on incidents at primary and secondary school
 **Contact Information:** If you have information that fits their definition of school shootings since Columbine, you can contribute to this important project by contacting them at [schoolshootings@washpost.com](mailto:schoolshootings@washpost.com). 📧
 
 # 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚
-🏫 School / Students
+## 🏫 School / Students
 
 # 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔
 
