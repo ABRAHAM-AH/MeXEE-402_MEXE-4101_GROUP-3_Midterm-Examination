@@ -3,7 +3,7 @@
 # <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
 ## <p align="center">𝐀𝐮𝐭𝐡𝐨𝐫/𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐫: 𝐉𝐎𝐀𝐊𝐈𝐌 𝐀𝐑𝐕𝐈𝐃𝐒𝐒𝐎𝐍</p>
 
-# 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
+## 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
 - About the Dataset
 - Category
 - Contents
@@ -16,7 +16,7 @@
 - Collaborators
 
 # 📚𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕
-# 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
+## 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 The **School Shootings** dataset is a comprehensive researched project conducted by **The Washington Post**. 🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
 
 The investigation primarily focuses on incidents at primary and secondary schools during school hours since the tragic 1999 Columbine High massacre. 🕒 To ensure accuracy, the data was sourced from various reliable channels, including news articles, databases, law enforcement reports, school websites, and direct communication with schools and police. Over 1,000 incidents were reviewed, with a stringent filtering process: only shootings occurring on school campuses before, during, or immediately after classes were included. Incidents involving after-hours events, non-injurious accidental discharges, and private suicides that didn't threaten others were meticulously excluded. Furthermore, shootings at colleges and universities were not part of this dataset.
