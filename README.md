@@ -3,9 +3,9 @@
 # <p align="center">🕵️ 𝕾𝖈𝖍𝖔𝖔𝖑 𝕾𝖍𝖔𝖔𝖙𝖎𝖓𝖌𝖘</p>
 
 # 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘✍
-- [About the Dataset](#𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂𝒔𝒆𝒕)
-- [Category](#𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚)
-- [Contents](#𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔)
+- [About the Dataset](#About the Dataset)
+- [Category](#Category)
+- [Contents](#Contents)
   - [Text Functions](#Text Functions)
   - [Math Functions](#Math Functions)
   - [Logical Functions](#Logical Functions)
