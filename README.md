@@ -38,7 +38,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 
 # 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔
 
-## ➤ _**Text Functions**_
+## ➤ **Text Functions**
 📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
 
 **LEN Function**
@@ -113,7 +113,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 - **Description:** Allows you to join 2 or more strings together.
 - **Syntax:** `=CONCATENATE(text1, [text2, ... text_n])`
 
-## ➤ _**Math Functions**_
+## ➤ **Math Functions**
 🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
 
 **ABS Function**
@@ -247,7 +247,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 - **Description:** Truncates a number towards zero to the nearest integer.
 - **Syntax:** `TRUNC(number, [num_digits])`
 
-## ➤ _**Logical Functions**_
+## ➤ **Logical Functions**
 ❓Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
 
 **IF Function**
@@ -296,7 +296,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 - **Description:** Returns an alternate value if a formula results in a #N/A error.
 - **Syntax:** `IFNA(value, value_if_na)`
 
-## ➤ _**Information Functions**_
+## ➤ **Information Functions**
 📋Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
 
 **ISERROR Function**
@@ -355,7 +355,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 - **Description:** Returns a numeric code representing the "type" in 5 categories: number (1), text (2), logical (4), error (16), and array (64). Useful when a formula's operation depends on the type of value in a particular cell.
 - **Syntax:** `TYPE(value)`
 
-## ➤ _**Date and Time Functions**_
+## ➤ **Date and Time Functions**
 📅Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
 
 **DATE Function**
@@ -434,7 +434,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 - **Description:** Returns the number of days between two dates.
 - **Syntax:** `DAYS(end_date, start_date)`
 
-## ➤ _**Lookup Functions**_
+## ➤ **Lookup Functions**
 🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
 
 **LOOKUP Function**
@@ -494,7 +494,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `string_reference`: A textual representation of a cell reference.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
 
-## 𝕬𝖚𝖙𝖍𝖔𝖗𝖘✍
+# 𝕬𝖚𝖙𝖍𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
 
 🤓 **Jhodielen Marabi**
