@@ -484,7 +484,7 @@ The investigation primarily focuses on incidents at primary and secondary school
   - `string_reference`: A textual representation of a cell reference.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
 
-# <p align="center">𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍</p>
-# <p align="center">🤓 Angela Heizel Abraham</p>
-# <p align="center">🤓 Jhodielen Marabi</p>
-# <p align="center">🤓 Nikkita Andrea Roxas</p>
+# 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
+🤓 **Angela Heizel Abraham**
+🤓 **Jhodielen Marabi**
+🤓 **Nikkita Andrea Roxas**
