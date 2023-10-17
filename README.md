@@ -2,7 +2,7 @@
 
 # <p align="center">🕵️ School Shootings</p>
 
-**Table of Contents**
+# Table of Contents
 - [Description](#description)
 - [About the Dataset](#about-the-dataset)
 - [Category](#category)
@@ -21,7 +21,7 @@
 
 **Author/Publisher:** JOAKIM ARVIDSSON
 
-## Overview
+# Overview
 The **School Shootings** dataset is a comprehensive researched project conducted by **The Washington Post**. 
 🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
 
@@ -33,34 +33,35 @@ The Washington Post diligently organized more than 200 qualifying incidents into
 
 This dataset is a valuable resource for researchers, policymakers, and anyone interested in understanding the full scope and impact of school shootings on our society. 📈📢
 
-## Category
+# Category
 🏫 School / Students
 
-## Contents
-➤ _**Text Functions**_
+# Contents
+
+## ➤ _**Text Functions**_
 📝Text functions are designed to manipulate and analyze text data. They can be used for tasks such as extracting substrings, converting text to uppercase or lowercase, and finding specific characters or words within a text.
 
-# LEN Function
+**LEN Function**
 - **Description:** Returns the length of the specified string.
 - **Syntax:** `=LEN(text)`
 
-# TRIM Function
+**TRIM Function**
 - **Description:** Returns a text value with leading and trailing spaces removed.
 - **Syntax:** `=TRIM(text)`
 
-# UPPER Function
+**UPPER Function**
 - **Description:** Allows you to convert text to all uppercase.
 - **Syntax:** `=UPPER(text)`
 
-# LOWER Function
+**LOWER Function**
 - **Description:** Allows you to convert text to all lowercase.
 - **Syntax:** `=LOWER(text)`
 
-# PROPER Function
+**PROPER Function**
 - **Description:** Sets the first character in each word to uppercase and the rest to lowercase.
 - **Syntax:** `=PROPER(text)`
 
-# SUBSTITUTE Function
+**SUBSTITUTE Function**
 - **Description:** Replaces a set of characters with another.
 - **Syntax:** `=SUBSTITUTE(text, old_text, new_text, [nth_appearance])`
 - **Parameters:**
@@ -69,7 +70,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `new_text` - The new characters to replace `old_text` with.
   - `nth_appearance` - (Optional) The nth appearance of `old_text` to replace. If omitted, all occurrences are replaced.
 
-# REPLACE Function
+**REPLACE Function**
 - **Description:** Replaces a sequence of characters in a string with another set of characters.
 - **Syntax:** `=REPLACE(old_text, start, number_of_chars, new_text)`
 - **Parameters:**
@@ -78,7 +79,7 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `number_of_chars` - The number of characters to replace in `old_text`.
   - `new_text` - The replacement set of characters.
 
-# FIND Function
+**FIND Function**
 - **Description:** Returns the location of a substring in a string (case-sensitive).
 - **Syntax:** `=FIND(substring, string, [start_position])`
 - **Parameters:**
@@ -86,21 +87,21 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - `string` - The string to search within.
   - `start_position` - (Optional) The position in the string where the search will start. Default is the beginning.
 
-# LEFT Function
+**LEFT Function**
 - **Description:** Allows you to extract a substring from a string, starting from the leftmost character.
 - **Syntax:** `=LEFT(text, [number_of_characters])`
 - **Parameters:**
   - `text` - The string you wish to extract from it.
   - `number_of_characters` - (Optional) Number of characters to extract from the left. Default is 1.
 
-# RIGHT Function
+**RIGHT Function**
 - **Description:** Returns the last character(s) in a text string based on the number of characters you specify.
 - **Syntax:** `=RIGHT(text, [number_of_characters])`
 - **Parameters:**
   - `text` - The string you wish to extract from it.
   - `number_of_characters` - (Optional) Number of characters to extract from the right. Default is 1.
 
-# MID Function
+**MID Function**
 - **Description:** Extracts a substring from a string, starting at any position.
 - **Syntax:** `=MID(text, start_position, number_of_characters)`
 - **Parameters:**
@@ -115,12 +116,12 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
 ## ➤ _**Math Functions**_
 🔢Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.
 
-## ABS Function
+**ABS Function**
 - **Description:** Returns the absolute value (modulus) of a supplied number.
 - **Syntax:** `ABS(number)`
 - **Note:** It removes the minus sign (-) from a negative number.
 
-## SIGN Function
+**SIGN Function**
 - **Description:** Returns the sign (+1, -1, or 0) of a supplied number.
 - **Syntax:** `SIGN(number)`
 - **Note:** 
@@ -128,139 +129,136 @@ This dataset is a valuable resource for researchers, policymakers, and anyone in
   - If the number is equal to zero, the SIGN function returns 0.
   - If the number is less than zero, the SIGN function returns -1.
 
-## GCD Function
+**GCD Function**
 - **Description:** Returns the Greatest Common Divisor of two or more supplied numbers.
 - **Syntax:** `GCD(number1, number2, ...)`
 - **Note:** It's used to find the largest positive integer that divides the numbers without a remainder.
 
-## LCM Function
+**LCM Function**
 - **Description:** Returns the Least Common Multiple of two or more supplied numbers.
 - **Syntax:** `LCM(number1, number2, ...)`
 - **Note:** It calculates the smallest integer that can be divided by all the provided numbers.
 
-## SUM Function
+**SUM Function**
 - **Description:** Returns the sum of a supplied list of numbers.
 - **Syntax:** `SUM(number1, number2, ...)`
 
-## PRODUCT Function
+**PRODUCT Function**
 - **Description:** Returns the product of a supplied list of numbers.
 - **Syntax:** `PRODUCT(number1, number2, ...)`
 
-## POWER Function
+**POWER Function**
 - **Description:** Returns the result of a given number raised to a supplied power.
 - **Syntax:** `POWER(number, power)`
 - **Note:** Works like an exponent in a standard math equation.
 
-## SQRT Function
+**SQRT Function**
 - **Description:** Returns the positive square root of a given number.
 - **Syntax:** `SQRT(number`
 - **Note:** Returns an error if the number is negative.
 
-## QUOTIENT Function
+**QUOTIENT Function**
 - **Description:** Returns the integer portion of a division between two supplied numbers.
 - **Syntax:** `QUOTIENT(numerator, denominator)`
 
-## MOD Function
+**MOD Function**
 - **Description:** Returns the remainder from a division between two supplied numbers.
 - **Syntax:** `MOD(number, divisor)`
 - **Note:** The result of MOD carries the same sign as the divisor.
 
-## AGGREGATE Function
+**AGGREGATE Function**
 - **Description:** Performs a specified calculation (e.g., sum, product, average, etc.) for a list or database, with the option to ignore hidden rows and error values.
 - **Syntax:** `AGGREGATE(function_num, options, range)`
 - **List of AGGREGATE Functions:**
   - Average, Count, Counta, Countblank, Min, Max, Sum, Median, Large, Small, Product
 
-## AVERAGE Function
+**AVERAGE Function**
 - **Description:** Calculates the average (arithmetic mean) of supplied numbers.
 - **Syntax:** `AVERAGE(number1, number2, ...)`
 
-## SUBTOTAL Function
+**SUBTOTAL Function**
 - **Description:** Performs a specified calculation (e.g., sum, product, average, etc.) for a supplied set of values.
 - **Syntax:** `SUBTOTAL(function_num, range)`
 
-## COUNT Function
+**COUNT Function**
 - **Description:** Returns the count of values that are numbers.
 - **Syntax:** `COUNT(value1, value2, ...)`
 - **Note:** Values can be constants, cell references, or ranges.
 
-## COUNTA Function
+**COUNTA Function**
 - **Description:** Returns the count of cells that contain numbers, text, logical values, error values, and empty text (" ").
 - **Syntax:** `COUNTA(value1, value2, ...)`
 - **Note:** Does not count empty cells.
 
-## COUNTBLANK Function
+**COUNTBLANK Function**
 - **Description:** Returns a count of empty cells in a range. Cells that contain text, numbers, errors, etc., are not counted. Formulas that return empty text are counted.
 - **Syntax:** `COUNTBLANK(range)`
 
-## MIN Function
+**MIN Function**
 - **Description:** Returns the smallest value from a set of data.
 - **Syntax:** `MIN(number1, number2, ...)`
 
-## MAX Function
+**MAX Function**
 - **Description:** Returns the largest value from a supplied set of numeric values.
 - **Syntax:** `MAX(number1, number2, ...)`
 
-## MEDIAN Function
+**MEDIAN Function**
 - **Description:** Returns the middle value in a group of numbers.
 - **Syntax:** `MEDIAN(number1, number2, ...)`
 - **Note:** Handles odd and even numbers of values.
 
-## LARGE Function
+**LARGE Function**
 - **Description:** Returns numeric values based on their position in a list when sorted by value. It can retrieve "nth largest" values.
 - **Syntax:** `LARGE(range, k)`
 
-## SMALL Function
+**SMALL Function**
 - **Description:** Returns numeric values based on their position in a list ranked by value. It can retrieve "nth smallest" values.
 - **Syntax:** `SMALL(range, k)`
 
-## PRODUCT Function
+**PRODUCT Function**
 - **Description:** Returns the product of numbers provided as arguments.
 - **Syntax:** `PRODUCT(number1, number2, ...)`
 
-## SUBTOTAL Function
+**SUBTOTAL Function**
 - **Description:** Returns an aggregate result for supplied values. Can return a SUM, AVERAGE, COUNT, MAX, and others. Can either include or exclude values in hidden rows.
 - **Syntax:** `SUBTOTAL(function_num, range)`
 
-## CEILING Function
+**CEILING Function**
 - **Description:** Rounds a number away from zero to a multiple of significance.
 - **Syntax:** `CEILING(number, significance)`
 
-## FLOOR Function
+**FLOOR Function**
 - **Description:** Rounds a number towards zero to a multiple of significance.
 - **Syntax:** `FLOOR(number, significance)`
 
-## EVEN Function
+**EVEN Function**
 - **Description:** Rounds a number away from zero to the next even number.
 - **Syntax:** `EVEN(number)`
 
-## ODD Function
+**ODD Function**
 - **Description:** Rounds a number away from zero to the next odd number.
 - **Syntax:** `ODD(number)`
 
-## ROUND Function
+**ROUND Function**
 - **Description:** Rounds a number up or down to a given number of digits.
 - **Syntax:** `ROUND(number, num_digits)`
 
-## TRUNC Function
+**TRUNC Function**
 - **Description:** Truncates a number towards zero to the nearest integer.
 - **Syntax:** `TRUNC(number, [num_digits])`
 
-  ➤ _**Logical Functions**_
+## ➤ _**Logical Functions**_
+❓Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
+
   
-  ❓Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.
+## ➤ _**Information Functions**_
+📋Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
   
-  ➤ _**Information Functions**_
- 
-  📋Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.
+## ➤ _**Date and Time Functions**_
+📅Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
   
-  ➤ _**Date and Time Functions**_
- 
-  📅Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.
-  
-  ➤ _**Lookup Functions**_
- 
-  🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
+## ➤ _**Lookup Functions**_
+🔍Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.
   
 ## Authors
 🤓 **Angela Heizel Abraham**
