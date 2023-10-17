@@ -32,6 +32,8 @@ The investigation primarily focuses on incidents at primary and secondary school
 
 **Contact Information:** If you have information that fits their definition of school shootings since Columbine, you can contribute to this important project by contacting them at [schoolshootings@washpost.com](mailto:schoolshootings@washpost.com). 📧
 
+**Reference Link:** _https://www.kaggle.com/datasets/joebeachcapital/school-shootings_
+
 # 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚
 ## 🏫 School / Students
 
