@@ -363,10 +363,6 @@ _**Date and time functions are crucial for working with temporary data. They all
 - **Description:** Creates a valid date from year, month, and day components.
 - **Syntax:** `DATE(year, month, day)`
 
-📅**TIME Function**
-- **Description:** Creates a time with hour, minute, and second components.
-- **Syntax:** `TIME(hour, minute, second)`
-
 📅**DATEVALUE Function**
 - **Description:** Converts text in a recognized format (e.g., a number, date, or time format) into a numeric value.
 - **Syntax:** `DATEVALUE("year-month-day")`
@@ -438,10 +434,6 @@ _**Date and time functions are crucial for working with temporary data. They all
 ## ➤ **Lookup Functions**
 _**Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.**_
 
-🔍**LOOKUP Function**
-- **Description:** The Microsoft Excel LOOKUP function performs a lookup in a single column or row range and returns a corresponding value from another column or row range.
-- **Syntax:** 'LOOKUP(value, lookup_range, [result_range])'
-
 🔍**VLOOKUP Function**
 - **Description:** VLOOKUP is an Excel function for vertical data lookup. It supports both approximate and exact matching, making it versatile for various lookup tasks.
 - **Syntax:** 'VLOOKUP(value, table, index, [result_range])'
@@ -450,25 +442,6 @@ _**Lookup functions are used to search for specific values in a data set. They c
   - `table`: The range or array to retrieve data from.
   - `index`: The column number in the table from which to fetch data.
   - `result_range` (optional): TRUE for an approximate match (default) or FALSE for an exact match.
-
-🔍**HLOOKUP Function**
-- **Description:** HLOOKUP is Excel's horizontal data lookup function, similar to VLOOKUP but for horizontally organized tables. It also supports approximate and exact matching.
-- **Syntax:** HLOOKUP(value, table, index, [result_range])
-
-🔍**MATCH Function**
-- **Description:** The Excel MATCH function finds the position of an item in a range, making it useful for locating specific data within a list.
-- **Syntax:** MATCH(lookup_type, lookup_array, match_type)
-
-🔍**CHOOSE Function**
-- **Description:** CHOOSE in Excel is used to select a value from a list based on a specified position, making it helpful for making choices within formulas.
-- **Syntax:** CHOOSE(position, value1, [value2, … value_n] …)
-- **Parameters:**
-  - `position`: The position number in the list of values to return, must be between 1 and 29.
-  - `value1, value2, … value_n`: A list of up to 29 values, which can be numbers, cell references, defined names, formulas/functions, or text values.
-
-🔍**AREAS Function**
-- **Description:** The AREAS function in Excel is used for lookup and reference purposes.
-- **Syntax:** AREAS(reference)
 
 🔍**ADDRESS Function**
 - **Description:** The Excel ADDRESS function returns the cell address based on a given row and column number.
@@ -479,10 +452,10 @@ _**Lookup functions are used to search for specific values in a data set. They c
   - `ref_type` (optional): The type of reference to use. Default is 1.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
   - `sheet_name` (optional): The name of the sheet to use in the cell address.
-
-🔍**COLUMN Function**
-- **Description:** The Excel COLUMN function returns the column number for a reference.
-- **Syntax:** COLUMN([reference])
+ 
+🔍**MATCH Function**
+- **Description:** The Excel MATCH function finds the position of an item in a range, making it useful for locating specific data within a list.
+- **Syntax:** MATCH(lookup_type, lookup_array, match_type)
 
 🔍**COLUMNS Function**
 - **Description:** The Excel COLUMNS function counts the number of columns in a given reference.
