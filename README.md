@@ -2,8 +2,6 @@
 
 # <p align="center">🕵️ School Shootings</p>
 
-**Author/Publisher:** JOAKIM ARVIDSSON
-
 **Table of Contents**
 - [Description](#description)
 - [About the Dataset](#about-the-dataset)
@@ -17,11 +15,23 @@
   - [Lookup Functions](#lookup-functions)
 - [Authors](#authors)
 
-## Description
-This repository provides comprehensive information about all school shootings in the United States since the tragic Columbine High massacre on April 20, 1999.
+# 📚 About the Dataset
 
-## About the Dataset
-The Washington Post dedicated an entire year to meticulously documenting the impact of school shootings on children, going beyond the grim statistics of fatalities and injuries. Their exhaustive research involved identifying every incident of gunfire occurring at primary and secondary schools during regular school hours since the fateful day of the Columbine High massacre.
+**Title:** School Shootings
+
+**Author/Publisher:** JOAKIM ARVIDSSON
+
+## Overview
+The **School Shootings** dataset is a comprehensive and meticulously researched project conducted by **The Washington Post**. 
+🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
+
+The investigation primarily focuses on incidents at primary and secondary schools during school hours since the tragic 1999 Columbine High massacre. 🕒 To ensure accuracy, the data was sourced from various reliable channels, including news articles, databases, law enforcement reports, school websites, and direct communication with schools and police. Over 1,000 incidents were reviewed, with a stringent filtering process: only shootings occurring on school campuses before, during, or immediately after classes were included. Incidents involving after-hours events, non-injurious accidental discharges, and private suicides that didn't threaten others were meticulously excluded. Furthermore, shootings at colleges and universities were not part of this dataset.
+
+The Washington Post diligently organized more than 200 qualifying incidents into a comprehensive database for analysis. 📊 They also relied on enrollment and demographic data from the U.S. Education Department to calculate how many children were exposed to gunfire during each school shooting. Importantly, the dataset is maintained and updated regularly to stay current with newly reported school shootings. The creators actively seek assistance to make it as comprehensive as possible and welcome contributions from the community. 🤝
+
+**Contact Information:** If you have information that fits their definition of school shootings since Columbine, you can contribute to this important project by contacting them at [schoolshootings@washpost.com](mailto:schoolshootings@washpost.com). 📧
+
+This dataset is a valuable resource for researchers, policymakers, and anyone interested in understanding the full scope and impact of school shootings on our society. 📈📢
 
 ## Category
 🏫 School / Students
