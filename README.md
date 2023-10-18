@@ -79,22 +79,32 @@ _**Math functions provide a range of mathematical operations, including basic ar
 - **Description:** Returns the sum of a supplied list of numbers.
 - **Syntax:** `SUM(number1, number2, ...)`
 
+![Sum Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/9f7e743d-5e87-442d-bb87-7706c4e56bb9)
+
 🔢**COUNT Function**
 - **Description:** Returns the count of values that are numbers.
 - **Syntax:** `COUNT(value1, value2, ...)`
 - **Note:** Values can be constants, cell references, or ranges.
 
+![Count Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/4a8ccb63-e273-4ad0-9317-c871115dd0a1)
+
 🔢**LARGE Function**
 - **Description:** Returns numeric values based on their position in a list when sorted by value. It can retrieve "nth largest" values.
 - **Syntax:** `LARGE(range, k)`
+
+![Large Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/0f19deee-3f94-49cb-92c2-b09f3c0ca96a)
 
 🔢**SMALL Function**
 - **Description:** Returns numeric values based on their position in a list ranked by value. It can retrieve "nth smallest" values.
 - **Syntax:** `SMALL(range, k)`
 
+![Small Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/7ab42c6e-a1d3-431f-a4f9-46894684415e)
+
 🔢**SUBTOTAL Function**
 - **Description:** Returns an aggregate result for supplied values. Can return a SUM, AVERAGE, COUNT, MAX, and others. Can either include or exclude values in hidden rows.
 - **Syntax:** `SUBTOTAL(function_num, range)`
+
+![Subtotal Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8222c3d4-8c1d-4aed-8646-f82fff3872b1)
 
 ## ➤ **Logical Functions**
 _**Logical functions enable you to make decisions and perform comparisons in your code. They include functions like IF, AND, OR, and NOT, which help evaluate conditions and determine the flow of your program based on true or false outcomes.**_
