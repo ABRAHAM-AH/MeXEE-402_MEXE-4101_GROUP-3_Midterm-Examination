@@ -150,21 +150,31 @@ _**Information functions are used to extract information about various aspects o
 - **Description:** Returns TRUE when a cell is empty and FALSE when it's not.
 - **Syntax:** `ISBLANK(value)`
 
+![ISBLANK Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/550a912b-2891-4a9e-b48b-f25f8f5a03e8)
+
 📋**ISEVEN Function**
 - **Description:** Returns TRUE when a numeric value is even and FALSE for odd numbers. It returns a #VALUE error when the value is not numeric.
 - **Syntax:** `ISEVEN(value)`
+
+![ISEVEN Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/6937c21c-9baa-435e-b8ea-d163d5d63331)
 
 📋**ISODD Function**
 - **Description:** Returns TRUE when a numeric value is odd and FALSE for even numbers. It returns a #VALUE error when the value is not numeric.
 - **Syntax:** `ISODD(value)`
 
+![ISODD Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8de79cdb-75cf-49b9-ab34-ca524f1ef7d3)
+
 📋**ISTEXT Function**
 - **Description:** Returns TRUE when a cell contains text and FALSE if not.
 - **Syntax:** `ISTEXT(value)`
 
+![ISTEXT Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/20b5530a-5ac4-44e5-9a3d-48704be68bd2)
+
 📋**ISNONTEXT Function**
 - **Description:** Returns TRUE for non-text values, such as numbers, dates, times, etc. It also returns TRUE for blank cells and cells with formulas that return non-text results.
 - **Syntax:** `ISNONTEXT(value)`
+
+![ISNONTEXT Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/c7bb1fba-e22e-4386-8974-44de0e6bd46a)
 
 ## ➤ **Date and Time Functions**
 _**Date and time functions are crucial for working with temporary data. They allow you to calculate time differences, format dates, extract components like days or months, and perform data-based calculations.**_
