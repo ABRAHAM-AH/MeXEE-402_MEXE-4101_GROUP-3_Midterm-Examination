@@ -183,9 +183,13 @@ _**Date and time functions are crucial for working with temporary data. They all
 - **Description:** Creates a valid date from year, month, and day components.
 - **Syntax:** `DATE(year, month, day)`
 
+![Date Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/1470e7bb-38de-43e1-99de-91f0719ce14e)
+
 📅**DATEVALUE Function**
 - **Description:** Converts text in a recognized format (e.g., a number, date, or time format) into a numeric value.
 - **Syntax:** `DATEVALUE("year-month-day")`
+
+![DateValue Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/b5535ab0-4f9c-4c6f-a8f5-ac0b410c9057)
 
 📅**NOW Function**
 - **Description:** Returns the current date and time, updated continuously when a worksheet is changed or opened.
@@ -195,9 +199,13 @@ _**Date and time functions are crucial for working with temporary data. They all
 - **Description:** Returns the current date, updated continuously when a worksheet is changed or opened.
 - **Syntax:** `TODAY()`
 
+![Now Today Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8004abc9-4cb8-4d94-87dd-c528b10418dc)
+
 📅**EOMONTH Function**
 - **Description:** Returns the last day of the month.
 - **Syntax:** `EOMONTH(start_date, months)`
+
+![Eomonth Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/a7d9a44f-a2db-42b6-8fd4-0704659ecdbc)
 
 📅**DAY Function**
 - **Description:** Returns the day of the month as a number between 1 and 31 from a given date.
@@ -210,6 +218,8 @@ _**Date and time functions are crucial for working with temporary data. They all
 📅**YEAR Function**
 - **Description:** Returns the year component of a date as a 4-digit number.
 - **Syntax:** `YEAR(serial_number)`
+
+![Day,Month,Year Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/4c4fbf5d-b28b-47cb-9282-c8b4d0f33296)
 
 ## ➤ **Lookup Functions**
 _**Lookup functions are used to search for specific values in a data set. They can be used to search for values within tables, arrays, or lists and return related information or values based on the search criteria.**_
