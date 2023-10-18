@@ -27,7 +27,7 @@
     
 ★ **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘀**
 
-# 📚𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆
+# <p align="center">📚𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆</p>
 ## 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 The **School Shootings** dataset is a comprehensive researched project conducted by **The Washington Post**. 🕵️‍♂️ This year-long investigation goes beyond the mere count of those killed or injured in school shootings, offering a profound understanding of the impact on children's lives.
 
@@ -35,8 +35,7 @@ The investigation primarily focuses on incidents at primary and secondary school
 
 **Contact Information:** If you have information that fits their definition of school shootings since Columbine, you can contribute to this important project by contacting them at [schoolshootings@washpost.com](mailto:schoolshootings@washpost.com). 📧
 
-# 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚
-## 🏫 School / Students
+# <p align="center">𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚: 🏫 SCHOOL / STUDENTS</p>
 
 # <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p> 
 ![DASHBOARD](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f39dda10-ee49-49c7-8787-577e52268bcf)
