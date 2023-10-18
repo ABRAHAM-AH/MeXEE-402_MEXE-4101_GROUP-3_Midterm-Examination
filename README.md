@@ -233,6 +233,8 @@ _**Lookup functions are used to search for specific values in a data set. They c
   - `index`: The column number in the table from which to fetch data.
   - `result_range` (optional): TRUE for an approximate match (default) or FALSE for an exact match.
 
+![Vlookup Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f396b0b7-a279-438e-ae25-25fe90e1545c)
+
 🔍**ADDRESS Function**
 - **Description:** The Excel ADDRESS function returns the cell address based on a given row and column number.
 - **Syntax:** ADDRESS(row, column, [ref_type], [ref_style], [sheet_name])
@@ -242,14 +244,20 @@ _**Lookup functions are used to search for specific values in a data set. They c
   - `ref_type` (optional): The type of reference to use. Default is 1.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
   - `sheet_name` (optional): The name of the sheet to use in the cell address.
- 
+
+ ![Address Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/2c341a16-b025-411b-a040-c97bf0d4c633)
+
 🔍**MATCH Function**
 - **Description:** The Excel MATCH function finds the position of an item in a range, making it useful for locating specific data within a list.
 - **Syntax:** MATCH(lookup_type, lookup_array, match_type)
 
+![Match Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f87907c3-6997-41de-abef-e08a90076db3)
+
 🔍**COLUMNS Function**
 - **Description:** The Excel COLUMNS function counts the number of columns in a given reference.
 - **Syntax:** COLUMNS(array)
+
+![Columns Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/7c525596-fb61-4743-8ff5-ace1d6434c5e)
 
 🔍**INDIRECT Function**
 - **Description:** Excel's INDIRECT function returns a reference to a cell based on its string representation.
@@ -257,6 +265,8 @@ _**Lookup functions are used to search for specific values in a data set. They c
 - **Parameters:**
   - `string_reference`: A textual representation of a cell reference.
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
+
+![Indirect Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8f1919eb-2354-4215-8b4a-a5fd72f1a6ba)
 
 # 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
