@@ -271,8 +271,6 @@ _**Lookup functions are used to search for specific values in a data set. They c
 
 ![Indirect Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8f1919eb-2354-4215-8b4a-a5fd72f1a6ba)
 
-# DASHBOARD
-
 # 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
 
