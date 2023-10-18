@@ -1,6 +1,6 @@
 # <p align="center">🤖 𝐆𝐑𝐎𝐔𝐏 3 𝐌𝐈𝐃𝐓𝐄𝐑𝐌 𝐄𝐗𝐀𝐌𝐈𝐍𝐀𝐓𝐈𝐎𝐍 🤖</p> 
 
-<p align="center">https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/5c88103c-2d4e-4b23-a5a6-22dfa8869aa6</p>
+# <p align="center">![school shootings](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/0e8bbeff-bc2e-46e7-966d-4563e05f8ce3)</p>
 
 ## <p align="center">𝐀𝐮𝐭𝐡𝐨𝐫/𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐫: 𝐉𝐎𝐀𝐊𝐈𝐌 𝐀𝐑𝐕𝐈𝐃𝐒𝐒𝐎𝐍</p>
 
