@@ -9,8 +9,6 @@
 
 ★ **𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆**
 
-★ **𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝**
-
 ★ **𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀**
 
       ● Text Functions
@@ -24,7 +22,9 @@
       ● Date and Time Functions
       
       ● Lookup Functions
-    
+
+★ **𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝**
+
 ★ **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘀**
 
 # <p align="center">📚𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆</p>
@@ -268,7 +268,7 @@ _**Lookup functions are used to search for specific values in a data set. They c
 
 ![Indirect Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8f1919eb-2354-4215-8b4a-a5fd72f1a6ba)
 
-# <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p> 
+# <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p>  
 ![DASHBOARD](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f39dda10-ee49-49c7-8787-577e52268bcf)
 
 # 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
