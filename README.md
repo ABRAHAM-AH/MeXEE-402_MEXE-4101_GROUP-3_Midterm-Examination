@@ -1,4 +1,4 @@
-# <p align="center">🤖 𝐆𝐑𝐎𝐔𝐏 3 𝐌𝐈𝐃𝐓𝐄𝐑𝐌 𝐄𝐗𝐀𝐌𝐈𝐍𝐀𝐓𝐈𝐎𝐍</p>
+# <p align="center">🤖 𝐆𝐑𝐎𝐔𝐏 3 𝐌𝐈𝐃𝐓𝐄𝐑𝐌 𝐄𝐗𝐀𝐌𝐈𝐍𝐀𝐓𝐈𝐎𝐍 🤖</p> 
 
 <p align="center">https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/5c88103c-2d4e-4b23-a5a6-22dfa8869aa6</p>
 
