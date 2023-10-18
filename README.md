@@ -37,9 +37,6 @@ The investigation primarily focuses on incidents at primary and secondary school
 
 # <p align="center">𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚: 🏫 SCHOOL / STUDENTS</p>
 
-# <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p> 
-![DASHBOARD](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f39dda10-ee49-49c7-8787-577e52268bcf)
-
 # 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔
 
 ## ➤ **Text Functions**
@@ -270,6 +267,9 @@ _**Lookup functions are used to search for specific values in a data set. They c
   - `ref_style` (optional): The reference style (A1 or R1C1). Default is TRUE.
 
 ![Indirect Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/8f1919eb-2354-4215-8b4a-a5fd72f1a6ba)
+
+# <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p> 
+![DASHBOARD](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f39dda10-ee49-49c7-8787-577e52268bcf)
 
 # 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖔𝖗𝖘✍
 🤓 **Angela Heizel Abraham**
