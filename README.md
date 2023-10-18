@@ -46,21 +46,31 @@ _**Text functions are designed to manipulate and analyze text data. They can be 
 - **Description:** Returns the length of the specified string.
 - **Syntax:** `=LEN(text)`
 
+![Len Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/e3ec7d66-3f84-4e88-a9b4-842de33ddb83)
+
 📝**UPPER Function**
 - **Description:** Allows you to convert text to all uppercase.
 - **Syntax:** `=UPPER(text)`
+
+![Upper Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/d422be4b-7ef0-411b-83b1-0a53005c834f)
 
 📝**LOWER Function**
 - **Description:** Allows you to convert text to all lowercase.
 - **Syntax:** `=LOWER(text)`
 
+![Lower Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/696dae94-1d47-47f5-a9a1-2866636a6b45)
+
 📝**PROPER Function**
 - **Description:** Sets the first character in each word to uppercase and the rest to lowercase.
 - **Syntax:** `=PROPER(text)`
 
+![Proper Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/70d7df32-6f13-43a9-b27d-c9ff21f53fce)
+
 📝**CONCATENATE Function**
 - **Description:** Allows you to join 2 or more strings together.
 - **Syntax:** `=CONCATENATE(text1, [text2, ... text_n])`
+
+![Concatenate Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/2953d666-5866-4b5a-acad-9cd2df88ef7f)
 
 ## ➤ **Math Functions**
 _**Math functions provide a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, and division), exponentiation, rounding, and more. These functions are essential for performing numerical computations.**_
