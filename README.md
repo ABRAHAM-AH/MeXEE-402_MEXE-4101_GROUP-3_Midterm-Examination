@@ -38,7 +38,8 @@ The investigation primarily focuses on incidents at primary and secondary school
 # 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚
 ## 🏫 School / Students
 
-# »»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►
+# <p align="center">»»ᅳDᅳAᅳSᅳHᅳBᅳOᅳAᅳRᅳDᅳ►</p> 
+![DASHBOARD](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/f39dda10-ee49-49c7-8787-577e52268bcf)
 
 # 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔
 
