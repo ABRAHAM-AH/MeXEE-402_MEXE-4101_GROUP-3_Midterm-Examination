@@ -113,13 +113,19 @@ _**Logical functions enable you to make decisions and perform comparisons in you
 - **Description:** Returns one value if the condition is TRUE, or another value if the condition is FALSE.
 - **Syntax:** `IF(condition, value_if_true, [value_if_false])`
 
+![IF Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/2cfdf6ad-bc8c-44e4-8161-7efe610efbcd)
+
 ❓**AND Function**
 - **Description:** Returns TRUE if all arguments evaluate to TRUE; otherwise, it returns FALSE.
 - **Syntax:** `AND(condition1, [condition2], ...)`
 
+![AND Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/c8613a67-4d95-4860-83fb-486946df0aa0)
+
 ❓**ISBLANK Function**
 - **Description:** Returns one value if the condition is TRUE, or another value if the condition is FALSE.
 - **Syntax:** `IF(condition, value_if_true, [value_if_false])`
+
+![ISBLANK Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/800f820b-aeb1-4ed0-bfcc-5e116cec805e)
 
 ❓**SUMIF Function**
 - **Description:** Sums the values in a range that meet specified criteria.
@@ -128,10 +134,14 @@ _**Logical functions enable you to make decisions and perform comparisons in you
   - `range` - The range of cells to evaluate by criteria.
   - `criteria` - A number, expression, cell reference, text, or function defining which cells to add.
 
+![SUMIF Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/5a36fc6b-a66b-4d4a-94c5-3bedd45ba40e)
+
 ❓**COUNTIF Function**
 - **Description:** Counts the number of cells that meet a given criterion.
 - **Syntax:** `COUNTIF(range, criteria)`
 - **Note:** Specify where to look and what to look for.
+
+![COUNTIF Function](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Midterm-Examination/assets/143601880/e811e783-6685-43c1-a94f-87f6e2a1472d)
 
 ## ➤ **Information Functions**
 _**Information functions are used to extract information about various aspects of your data or system. This can include functions for retrieving file or cell information, counting items, and determining the type of data in a cell.**_
