@@ -11,17 +11,17 @@
 
 ★ **𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀**
 
-● **Text Functions**
+      ● Text Functions
       
-● **Math Functions**
+      ● Math Functions
       
-● **Logical Functions**
+      ● Logical Functions
       
-● **Information Functions**
+      ● Information Functions
       
-● **Date and Time Functions**
+      ● Date and Time Functions
       
-● **Lookup Functions**
+      ● Lookup Functions
     
 ★ **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘀**
 
